@@ -1,0 +1,61 @@
+
+{
+  "Anleitungsinhalt" : [
+    {
+      "title": "Spielziel",
+      "text": "Jeder Spieler versucht, mit seinem Schiff die letzte Reihe des Spielfeldes zu erreichen. Um ein Schiff über das Spielfeld zu bewegen, werden Karten eingesetzt.",
+      "picPath": []
+    },
+    {
+      "title": "Spielzüge",
+      "text": "Jeder Spieler startet mit drei Handkarten. Zu Beginn jedes neuen Zuges werden zwei Karten gezogen. \n Gespielte Karten landen auf dem Ablegestapel. Kann ein Spieler keine neuen Karten mehr ziehen, wird der Nachziehstapel neu gemischt.\n Pro Zug können beliebig viele Karten gespielt werden. \n Spieler können beliebig viele Karten in ihrer Hand halten. \n Auf jedem Feld kann sich nur ein Spieler auf einmal befinden. ",
+      "picPath": ["/rocks/Felsen_background.png"]
+    },
+    {
+      "title": "Hindernisse",
+      "text": "Minen und Felsen sind Hindernisse. Fährt ein Schiff in ein Hindernis, wird es um zwei Felder zurückgeworfen. \n Minen werden dabei zerstört, Felsen hingegen erscheinen an einer zufälligen anderen Stelle wieder. \n Minen können auch mit Felsen oder anderen Minen zusammenstoßen. Minen werden am Ende jeder Runde um eine Reihe nach hinten geschwemmt.",
+      "picPath": ["/mine/Mine_with_background.png", "/rocks/Felsen_background.png"]
+    },
+
+    {
+      "title": "Rammen",
+      "text": "Ein Schiff rammt ein angrenzendes Schiff. Beide Schiffe bewegen sich um ein Feld in entgegengesetzte Richtungen.",
+      "picPath": ["/manual_pictures/before_ram.png", "/manual_pictures/after_ram.png"]
+    },
+    {
+      "title": "Breitseite rechts/links",
+      "text": "Ein Schiff feuert eine Kanone, je nach Karte nach rechts oder links. Der Rückstoß verschiebt das schießende Schiff in die entgegengesetzte Richtung. \n Befindet sich ein anderes Schiff in der Schussbahn wird es getroffen und um zwei Felder zurückgeworfen. Der Schuss überwindet Minen und Felsen.",
+      "picPath": ["/manual_pictures/before_broad_side.png", "/manual_pictures/after_broad_side.png"]
+    },
+    {
+      "title": "Minen legen",
+      "text": "Der Spieler darf zwei Minen in der Reihe vier Felder vor seinem Schiff platzieren.",
+      "picPath": ["/manual_pictures/before_mines.png", "/manual_pictures/after_mines.png"]
+    },
+    {
+      "title": "Haken",
+      "text": "Ein Schiff wirft einen Haken auf ein anderes Schiff und zieht sich an ihm zwei Felder vorwärts. Das getroffene Schiff wird um ein Feld zurückgeworfen.\n Die Abbildung zeigt, welche Felder als Ziel infrage kommen. ",
+      "picPath": ["/manual_pictures/before_hook.png", "/manual_pictures/after_hook.png"]
+    },
+    {
+      "title": "Manöver",
+      "text": "Ein Schiff überspringt ein gerade oder diagonal angrenzendes Schiff oder eine Mine.",
+      "picPath": ["/manual_pictures/before_maneuver.png", "/manual_pictures/after_maneuver.png"]
+    },
+    {
+      "title": "Steuern",
+      "text": "Fährt ein Schiff diagonal vorwärts, also nach vorne rechts oder nach vorne links.",
+      "picPath": ["/manual_pictures/before_steer.png", "/manual_pictures/after_steer.png"]
+    },
+    {
+      "title": "1 Feld vor",
+      "text": "Ein Schiff rückt um ein Feld vor.",
+      "picPath" : []
+    },
+    {
+      "title": "2 Felder vor",
+      "text": "Ein Schiff rückt um zwei Felder vor.",
+      "picPath": []
+    }
+  ]
+}
