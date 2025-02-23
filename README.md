@@ -31,7 +31,7 @@ Brightside is designed with a strong educational focus, aiming to introduce and 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-user/Brightside.git
+git clone https://github.com/SantanaQ/Brightside.git
 cd Brightside
 ```
 
