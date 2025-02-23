@@ -27,7 +27,7 @@ Brightside is designed with a strong educational focus, aiming to introduce and 
 
 ## Installation & Setup
 ### Prerequisites
-- Java Development Kit (JDK) 17 or higher
+- Java Development Kit (JDK) 23
 - Gradle (installed or used via the wrapper)
 
 ### Clone the Repository
