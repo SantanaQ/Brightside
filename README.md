@@ -13,7 +13,7 @@ Brightside is a software simulation of a strategic board game where players use 
 Brightside is designed with a strong educational focus, aiming to introduce and demonstrate various software design patterns in a playful manner. The following design patterns are implemented:
 - **Factory Pattern** - Managing object creation
 - **Command Pattern** - Encapsulating actions as objects
-- **Strategy Pattern** - Allowing interchangeable movement strategies
+- **Strategy Pattern** - Allowing interchangeable game behaviour strategies
 - **Dependency Injection** - Enhancing modularity and testability
 - **Memento Pattern** - Enabling undo functionality
 - **Builder Pattern** - Simplifying complex object creation
