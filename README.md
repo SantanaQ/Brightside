@@ -7,6 +7,7 @@ Brightside is a software simulation of a strategic board game where players use 
 - Dynamic obstacle interactions
 - Hand card mechanics for movement and strategic actions
 - Graphical User Interface (GUI) using Java Swing
+- Saving and loading game files
 - Supports multiple design patterns for didactic purposes
 
 ## Educational Focus
